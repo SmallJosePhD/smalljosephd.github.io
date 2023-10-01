@@ -90,10 +90,10 @@ author:
   location         :
   employer         :
   pubmed           :
-  orcid            : #"http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : #"https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
+  orcid            : "https://orcid.org/0000-0002-1357-5618"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=ghb58Y0AAAAJ"
   email            : "josephdavid970@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Joseph-David-10"
   uri              :
   bitbucket        :
   codepen          :
@@ -108,19 +108,20 @@ author:
   instagram        :
   impactstory      : ##"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  LinkedIn         : "https://www.linkedin.com/in/josephdavid970"
   mastodon         : #"fosstodon.org/@jayrobw"
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "https://twitter.com/smalljosephd1"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57658362200"
 
 
 # Reading Files
