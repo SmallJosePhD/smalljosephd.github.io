@@ -7,27 +7,9 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+The central theme of my academic research interests broadly lies at the intersection of illicit activities (such as grand corruption, money laundering, tax evasion, underground economy, kidnapping-for-ransom, terrorism, fraud, and robbery), fiscal sustainability, and sustainable development in developing countries. One strand of my research explores the size and flows of the funds these illicit activities generate. The other aspect of my research considers how the development and prevalence of these activities influence fiscal sustainability and sustainable economic growth and development in low-income countries.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
-
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+Over the years, relying on multiple data sources and employing some advanced methods in quantitative economics and econometrics, I have provided insight into the complexity of a number of social, economic, and political issues. These include the drivers and inhibitors of poverty in Nigeria, the health spending-outcome nexus, the implication of the oil-corruption association for fiscal and economic sustainability; and the size of money laundering, amongst others.
 
 <nbsp>
 
