@@ -8,23 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+### Welcome to my website
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+My name is **Joseph David**. I am currently pursueing for a Masters by Research (MRes) degree at the <a href ="https://fpe.upsi.edu.my/master/">Universiti Pendidikan Sultan Idris, Malaysia </a>. 
+
+Additionally, I am a Research Associate at the Covenant University's <a href ="https://cepder.covenantuniversity.edu.ng/"> Centre for Economic Policy and Development Research (CEPDeR)</a>. I was previously affiliated with the <a href="https://lbs.edu.ng" target="_blank">Lagos Business School, Pan-Atlantic Univerity </a>, Lagos, where I worked as a Research and Teaching Assistant under the mentorship of <a href ="https://www.lbs.edu.ng/faculty_profiles/akintola-owolabi/">Professor Akintola Owolabi</a>.  
+
+The central theme of my research interests broadly lies at the intersection of illicit activities (such as corruption, money laundering, and underground economic activities), fiscal sustainability, and sustainable development in Nigeria and other developing countries. 
+
+
+Building on my strong background in econometric theory, micro- and macroeconomic theory, statistics, mathematics, political economy, and development economics, I have, since 2017 (after my bachelor's degree), employed quantitative economics toolkits to illuminate the complexity of a number of social, economic, and political issues. These include the drivers and inhibitors of poverty in Nigeria, the health spending-outcome nexus, the implication of the oil-corruption association for fiscal and economic sustainability; and the size of money laundering, amongst others.
+
+My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia focuses on the role of corruption and the underground economy in the oil rent-growth relationship in oil-rich economies.
