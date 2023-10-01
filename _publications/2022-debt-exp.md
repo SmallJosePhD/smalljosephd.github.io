@@ -1,5 +1,5 @@
 ---
-title: "Turning the Lights on to Keep Them in the Fold: How Governments Preempt Secession Attempts"
+title: "Is the effect of public debt on public expenditure non-linear? An insight from the bootstrap ARDL approach and dynamic ARDL simulations procedure"
 collection: publications
 permalink: /publication/2022-debt-exp
 date: 2022-07-28
