@@ -1,10 +1,10 @@
 ---
-title: "BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation"
+title: "The moderating effect of corruption on the oil price-economic growth nexus: Insight from a panel of oil-rich economies"
 collection: publications
-permalink: /publication/2019-bayespostest
-date: 2019-10-01
-venue: 'Journal of Open Source Software'
-paperurl: '/files/pdf/research/BayesPostEst.pdf'
-link: 'https://doi.org/10.21105/joss.01722'
-citation: 'Scogin, Shana, Johannes Karreth, Andreas Beger, and Rob Williams. 2019. &quot;BayesPostEst: An R Package to Generate Postestimation Quantities for Bayesian MCMC Estimation.&quot; <i>Journal of Open Source Software</i> 4(42): 1722. doi:10.21105/joss.01722'
+permalink: /publication/2023-oilrent-growth
+date: 2023-10-01
+venue: 'Portuguese Economic Journal'
+paperurl: '/files/pdf/research/David_2023.pdf'
+link: ''
+citation: 'David, J. (2023, in press). &quot; Portuguese Economic Journal; <i>Journal of Open Source Software</i>. doi:'
 ---
