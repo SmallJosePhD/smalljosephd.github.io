@@ -3,38 +3,21 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+Since 2014, I have taught basic and applied undergraduate Economics courses (including introductory, intermediate, and advanced micro- and macro-economics, mathematics, statistics, and econometrics), data science courses, and high school economics. While at Ibrahim Badamasi Babangida University during my Bachelor's degree programme, I tutored colleagues and students taking elective courses in the Department of economics. I also served as a support Economics teacher during my compulsory one-year National Youth Service Corps (NYSC) in one of the secondary schools in the educationally disadvantaged and war-torn Zamfara state, in Northern Nigeria. I have also served as a teaching assistant at the Lagos Business School, Pan-Atlantic University, where I assist Professor Akintola Owolabi in preparing lecture material, presentations, and case studies, amongst others. I have also held sessions at the two-week Summer Institute in Computational Social Science (SICSS), Calabar location, where I walked participants through the basics and advanced techniques in data sciences.  
 
+#You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
+#You can find a selection of my teaching materials, including all of the labs
+#from Advanced Topics in Political Data Science, [here](/teaching-materials).
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+## Summer Institute in Computational Social Sciences (SICSS-Calabar)
+- Day 2: Basics of R programming 
+    #- [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
+- Day 9: Basics of Text Analysis and Dictionary-based text analysis
+    #- [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
-
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
-
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
+## Government Girls Day Secondary School, Birnin-Magagi, Zamfara state, Nigeria (National Youth Service Corps, NYSC)
+- High school Economics (April 2018-March 2019)
+    #- [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
+## Ibrahim Badamasi Babangida University, Nigeria
+- Department of Economics Tutorial session (May 2014 - August 2017)
     - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
