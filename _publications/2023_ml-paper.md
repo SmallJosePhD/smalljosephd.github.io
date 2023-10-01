@@ -2,7 +2,7 @@
 title: "Estimating the magnitude of money laundering in the United Arab Emirates (UAE): Evidence from the Currency Demand Approach (CDA)"
 collection: publications
 permalink: /publication/2023-ml
-date: 2023-28-04
+date: 2023-04-28
 venue: 'Journal of Money Laundering and Control'
 paperurl: '/files/pdf/teaching/ml-paper.pdf'
 link: 'https://doi.org/10.1108/JMLC-02-2023-0043'
