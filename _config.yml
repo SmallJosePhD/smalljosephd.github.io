@@ -59,7 +59,7 @@ yandex_site_verification :
 mastodon:
   username               : #""
 twitter:
-  username               : "twitter.com/smalljosephd1"
+  username               : "smalljosephd1"
 facebook:
   username               :
   app_id                 :
@@ -94,6 +94,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ghb58Y0AAAAJ"
   email            : "josephdavid970@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Joseph-David-10"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57658362200"
   uri              :
   bitbucket        :
   codepen          :
@@ -115,14 +116,13 @@ author:
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/smalljosephd1"
+  twitter          : "smalljosephd1"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57658362200"
-
+  
 
 # Reading Files
 include:
