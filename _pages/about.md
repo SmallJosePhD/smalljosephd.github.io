@@ -18,4 +18,15 @@ Building on my strong background in econometric theory, micro- and macroeconomic
 
 My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia focuses on the role of corruption and the underground economy in the oil rent-growth relationship in oil-rich economies.
 
-<b>Skills</b>: `R`, $Stata$, $\LaTeX$, and $Python$.
+<div>
+  <h2>Skills</h2>
+  <div style="display: flex; justify-content: space-between;">
+  <img src="/images/r_icon.png" alt="R programming" style="width: 50px; height: 50px;">
+  <img src="/images/eviews_icon.png" alt="EViews" style="width: 50px; height: 50px;">
+  <img src="/images/stata_icon.png" alt="Stata" style="width: 50px; height: 50px;">
+  <img src="/images/latex_icon.jpg" alt="LaTeX" style="width: 50px; height: 50px;">
+  <img src="/images/overleaf_icon.png" alt="Overleaf" style="width: 50px; height: 50px;">
+  <img src="/images/github_icon.png" alt="GitHub" style="width: 50px; height: 50px;">
+  <img src="/images/python_icon.png" alt="Python" style="width: 50px; height: 50px;">
+  </div>
+</div>
