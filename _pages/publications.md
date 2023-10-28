@@ -14,4 +14,4 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>*</sup> Equal authorship
+#<sup>*</sup> Equal authorship
