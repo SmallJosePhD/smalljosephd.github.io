@@ -1,5 +1,5 @@
 ---
-title: "ppraisal of the Determinants of Energy Use in Lapai Local Government"
+title: "Appraisal of the Determinants of Energy Use in Lapai Local Government"
 collection: publications
 permalink: /publication/2018-energy-use-determinants
 date: 2018-10-1
