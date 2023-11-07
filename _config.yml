@@ -7,13 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joseph David"
+title                    : "Joseph David's website"
+tagline                  : "Joseph David's website | A website dedicated to disseminating recent developments in economic research, data science, and econometrics"
 title_separator          : "-"
 name                     : &name "Joseph David"
-description              : &description "Graduate student"
-url                      : https://smalljosephd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Joseph David's website | A website dedicated to disseminating recent developments in economic research, data science, and econometrics"
+url                      : "https://smalljosephd.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smalljosephd/smalljosephd.github.io"
+author                   : "Joseph David"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -26,6 +28,9 @@ comments:
     shortname            :
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+  twitter:
+    username: smalljosephd1
+    card: summary
   facebook:
     appid                :
     num_posts            : # 5 (default)
@@ -49,6 +54,14 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+social:
+  name: Joseph David
+  links:
+    - https://twitter.com/SmallJosePhD1
+    - https://www.facebook.com/josephdav4u
+    - https://www.linkedin.com/in/josephdavid970
+    - https://github.com/SmallJosePhD
+    
 # SEO Related
 google_site_verification :
 bing_site_verification   :
