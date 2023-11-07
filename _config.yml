@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Joseph David's website"
+title                    : "Joseph David"
 tagline                  : "Joseph David's website | A website dedicated to disseminating recent developments in economic research, data science, and econometrics"
 title_separator          : "-"
 name                     : &name "Joseph David"
