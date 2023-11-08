@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Joseph David"
 tagline                  : "Joseph David's website | A website dedicated to disseminating recent developments in economic research, data science, and econometrics"
 title_separator          : "-"
-name                     : &name "Joseph David"
-description              : &description "Joseph David's website | A website dedicated to disseminating recent developments in economic research, data science, and econometrics"
+name                     : "Joseph David"
+description              : "Joseph David's website | A website dedicated to disseminating recent developments in economic research, data science, and econometrics"
 url                      : "https://smalljosephd.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smalljosephd/smalljosephd.github.io"
 author                   : "Joseph David"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Joseph David"
   avatar           : "DSC_1477.JPG"
-  bio              : "Economics, Research, and Data Science"
-  location         :
+  bio              : "Economics, research, and data enthusiast"
+  location         :  "Taman Bahtera, Selangor"
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-1357-5618"
