@@ -4,6 +4,15 @@ collection: publications
 permalink: /publication/2023-ml
 date: 2023-04-28
 venue: 'Journal of Money Laundering and Control'
+abstract: '<b>Abstract</b> 
+Purpose
+Despite the vulnerability of rapidly developing and emerging market economies, researchers have paid less attention to the determination of the size of money laundering (ML) in these economies, including the United Arab Emirates (the UAE). Therefore, this paper aims to estimate the magnitude of ML in the UAE between 1975 and 2020 based on the currency demand approach (CDA).
+Design/methodology/approach
+The study uses the Gregory–Hansen cointegration technique alongside the autoregressive distributed lag bounds testing procedure to estimate the CDA model.
+Findings
+The results illustrate that an amount equivalent to about 19.034% of the GDP is laundered in the UAE between 1975 and 2020, on average, with the value lying between 15.129% and 23.121%. In addition, the results demonstrate the importance of the real estate market, gold trade, remittance channels and the size of the underground economy in facilitating the laundering of illicit funds in the country.
+Originality/value
+To the best of the authors’ knowledge, the study is the pioneering attempt at estimating the amount of illicit funds laundered in the UAE. Besides, the adoption of a novel, yet robust, approach based on the modification of the CDA technique also sets the study apart as it ensures a correct, clear, unambiguous and indisputable estimate of the magnitude of ML is obtained. In addition, it is expected that the outcome of the study will expand the frontiers of knowledge among policy makers and relevant agencies and ensure the adoption of the most efficient and effective measures to curb the ML menace in the country.'
 paperurl: '/files/pdf/research/ml-paper.pdf'
 link: 'https://doi.org/10.1108/JMLC-02-2023-0043'
 code: 'https://doi.org/10.1108/JMLC-02-2023-0043'
