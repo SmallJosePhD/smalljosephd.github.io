@@ -27,6 +27,6 @@ My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia focuses on 
   <img src="/images/latex_icon.jpg" alt="LaTeX" style="width: 50px; height: 50px;">
   <img src="/images/overleaf_icon.png" alt="Overleaf" style="width: 50px; height: 50px;">
   <img src="/images/github_icon.png" alt="GitHub" style="width: 50px; height: 50px;">
-  <img src="/images/python_icon.png" alt="Python" style="width: 50px; height: 50px;">
+<!--<img src="/images/python_icon.png" alt="Python" style="width: 50px; height: 50px;"> -->
   </div>
 </div>
