@@ -14,3 +14,5 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<sup>†</sup>Equal first author
