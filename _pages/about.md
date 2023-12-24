@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Joseph David**. I am currently pursuing a Masters by Research (MRes) degree at the <a href ="https://fpe.upsi.edu.my/master/"  style="text-decoration:none" target="_blank"></a>Universiti Pendidikan Sultan Idris (UPSI), Malaysia.
+My name is **Joseph David** (born Joseph Tolúwaṣẹ Ọláolúwa Babátúndé David). I am currently pursuing a Masters by Research (MRes) degree at the <a href ="https://fpe.upsi.edu.my/master/"  style="text-decoration:none" target="_blank"></a>Universiti Pendidikan Sultan Idris (UPSI), Malaysia.
 
 I am a Research Associate at the Covenant University's <a href ="https://cepder.covenantuniversity.edu.ng/" style="text-decoration:none" target="_blank"> Centre for Economic Policy and Development Research (CEPDeR)</a>. I was previously affiliated with the <a href="https://lbs.edu.ng" style="text-decoration:none" target="_blank">Lagos Business School, Pan-Atlantic University</a>, Lagos, where I worked as a Research and Teaching Assistant under the mentorship of <a href ="https://www.lbs.edu.ng/faculty_profiles/akintola-owolabi/"  style="text-decoration:none" target="_blank">Professor Akintola Owolabi</a>. I left the Lagos Business School for a graduate degree program at UPSI in August, 2023, but Professor Owolabi continued to support and mentor me. 
 
