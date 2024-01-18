@@ -9,6 +9,9 @@ tags:
   - ARDL bounds testing
   - Bootstrap ARDL
 ---
+Today, I will be providing a rather brief post on the process of implementing the Fourier ARDL bounds testing approach which I applied in my recent paper entitled "The moderating role of corruption in the oil price-economic growth relationship in an oil-dependent economy: Evidence from Bootstrap ARDL with a Fourier Function"  
+
+<!--more--> 
 
 # The method 
 To implement the Bootstrap ARDL bounds testing estimation strategy adopted in my [recent paper](files/pdf/research/2023-oil-corr-growth.pdf), you will need to first download the Fourier ARDL EViews program code [here](files/private/fourier%20ardl%20eviews%20code.prg) and the [augmented ARDL EViews Addin](/files/private/AugARDL.rar)
