@@ -11,7 +11,7 @@ equation result.ardl(deplags=4, reglags=4) GDPG LOILPBRENT CC CCOILPBRENT AGRGDP
 'the line above will generate an ARDL equation object
 'you can change maximum lags to your choice. deplags denotes the lags for the dependent variable; while reglags is the maximum lags for the explanatory variables.
 
-matrixAIC(!c,2)=newfourierardl.@aic
+matrixAIC(!c,2)=result.@aic
 matrixAIC(!c,1)=!k
 !c=!c+1
 next
