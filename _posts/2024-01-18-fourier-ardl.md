@@ -9,7 +9,7 @@ tags:
   - ARDL bounds testing
   - Bootstrap ARDL
 ---
-Today, I will be providing a rather brief post on the process of implementing the Fourier ARDL bounds testing approach which I applied in my recent paper entitled "**The moderating role of corruption in the oil price-economic growth relationship in an oil-dependent economy: Evidence from Bootstrap ARDL with a Fourier Function**"  
+Today, I will be providing a rather brief post on the process of implementing the Fourier ARDL bounds testing approach which I applied in my recent paper entitled "**The moderating role of corruption in the oil price-economic growth relationship in an oil-dependent economy: Evidence from Bootstrap ARDL with a Fourier Function**". 
 
 <!--more--> 
 
