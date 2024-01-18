@@ -20,7 +20,8 @@ Consider the following FARDL(p,q) model:
 
 $$\Delta y_t=\theta+d(t)+\rho y_{t-1}+\gamma x_{t-1} +\sum_{j=1}^{p-1}\psi_j\Delta y_{t-j}+\sum_{j=0}^{q-1}\varphi_j\Delta x_{t-j}+\epsilon_t$$
 
-where 
+where
+
 $$d(t)=\sum_{k=1}^n\alpha_k\text{cos}\left(\frac{2\pi k t}{T}\right)+ \sum_{k=1}^n\beta_k\text{sin}\left(\frac{2\pi k t}{T}\right)$$
 
 To analyze this model, you'll encounter a couple of practical considerations that should be addressed early on. The first involves deciding on the frequency at which the estimation will take place. Although it may seem trivial, this choice carries implications for the outcomes. The second consideration is determining the number of Fourier terms to include. In the generic specification provided above, the number of terms is set to $n$. In a more rigorous study, this parameter must be carefully determined. Typically, the various selection criteria (AIC, HQ, or SIC) are employed for this purpose, aiming to identify the value that minimizes the chosen criterion. 
