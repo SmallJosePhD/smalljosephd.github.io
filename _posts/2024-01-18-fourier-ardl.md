@@ -14,7 +14,7 @@ Today, I will be providing a rather brief post on the process of implementing th
 <!--more--> 
 
 # The method 
-To implement the Bootstrap ARDL bounds testing estimation strategy adopted in my [paper](files/pdf/research/2023-oil-corr-growth.pdf), you will need to first download the Fourier ARDL EViews program code [here](files/private/fourier%20ardl%20eviews%20code.prg) and the [augmented ARDL EViews Addin](/files/private/AugARDL.rar)
+To implement the Bootstrap ARDL bounds testing estimation strategy adopted in my [paper](/files/pdf/research/2023-oil-corr-growth.pdf), you will need to first download the Fourier ARDL EViews program code [here](/files/private/fourier%20ardl%20eviews%20code.prg) and the [augmented ARDL EViews Addin](/files/private/AugARDL.rar)
 
 Consider the following FARDL(p,q) model:
 
