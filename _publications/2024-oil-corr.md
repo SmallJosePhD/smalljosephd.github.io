@@ -1,7 +1,7 @@
 ---
 title: "Financial inclusion and underground economy nexus in West Africa: Evidence from dynamic heterogeneous panel techniques"
 collection: publications
-permalink: /publication/2024-fin-ueco
+permalink: /publication/2024-oil-corr
 date: 2024-02-02
 venue: 'Journal of Money Laundering Control'
 abstract: ''<b>Purpose:</b> Despite the huge financial resources associated with oil, Nigeria has consistently recorded poor growth performance. Therefore, this study aims to examine how corruption and oil rent influence Nigeria’s economic performance during the 1996–2021 period.
