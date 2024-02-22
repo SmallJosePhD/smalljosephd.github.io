@@ -19,13 +19,13 @@ group explvars x1 x2 x3			'Change "x1", "x2", and "x3" to the controle variables
 'SECTION B: COMPUTATION OF THE THRESHOLDS
 
 'Create the threshold series for two thresholds, three partial sums:
-genr thresh1 = @quantile(d(x), 0.25) 				'Note: the specified thresholds can be changed from 25 and 75 quantiles to, say for instance, 40-60 quantiles or 20-80 quantiles
-genr thresh2 = @quantile(d(x), 0.75)
+genr thresh1 = @quantile(d(decvar), 0.25) 				'Note: the specified thresholds can be changed from 25 and 75 quantiles to, say for instance, 40-60 quantiles or 20-80 quantiles
+genr thresh2 = @quantile(d(decvar), 0.75)
 
 'Next we create the regimes (three partial sums).
-genr x_up = @cumsum((d(x) <= thresh1)*d(x))
-genr x_mid = @cumsum(((d(x) > thresh1) and (d(x) <= thresh2))*d(x))
-genr x_low = @cumsum((d(x) > thresh2)* d(x))
+genr x_up = @cumsum((d(decvar) <= thresh1)*d(decvar))
+genr x_mid = @cumsum(((d(decvar) > thresh1) and (d(decvar) <= thresh2))*d(decvar))
+genr x_low = @cumsum((d(decvar) > thresh2)* d(decvar))
 
 explvars.add x_up x_mid x_low							'This line of code adds the partial sums to the group created for explanatory variables in line 14
 
@@ -40,6 +40,6 @@ show ps_graph
 
 'Now we estimate the Multiple Threshold Nonlinear ARDL (MT-NARDL) model with the inclusion of the partial sums (x_up, x_mid, x_low)
 
-equation mtnardl.ardl(ic = aic, deplags=4, reglags=4) y explvars					'This line of code estimates the ARDL model with lags selection based on AIC criterion. it can be changed to “bic” for SIC; “hq” for HQC; or “rbar2” for Adjusted R-squared
+equation mtnardl.ardl(ic = aic, deplags=4, reglags=4) depvar explvars					'This line of code estimates the ARDL model with lags selection based on AIC criterion. it can be changed to “bic” for SIC; “hq” for HQC; or “rbar2” for Adjusted R-squared
                                                                           'If you're using a finite sample, you may want to reduce the maximum lag order from 4 to something smaller.
 show mtnardl
