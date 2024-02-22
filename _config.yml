@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Joseph David"
-tagline                  : "Joseph David's website | A website dedicated to disseminating recent developments in economic research, data science, and econometrics"
+tagline                  : "Joseph David's website | My personal website dedicated to disseminating my research outcomes"
 title_separator          : "-"
 name                     : "Joseph David"
-description              : "Joseph David's website | A website dedicated to disseminating recent developments in economic research, data science, and econometrics"
+description              : "Joseph David's website | My personal website dedicated to disseminating my research outcomes"
 url                      : "https://smalljosephd.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smalljosephd/smalljosephd.github.io"
@@ -99,8 +99,8 @@ analytics:
 author:
   name             : "Joseph David"
   avatar           : "DSC_1477.JPG"
-  bio              : "Economics, research, and data enthusiast"
-  location         :  "Taman Bahtera, Selangor"
+  bio              : "Research enthusiast!"
+  location         : "Taman Bahtera, Selangor"
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-1357-5618"
@@ -120,13 +120,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : ##"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : ##""
   lastfm           :
   LinkedIn         : "https://www.linkedin.com/in/josephdavid970"
-  mastodon         : #"fosstodon.org/@jayrobw"
+  mastodon         : #""
   pinterest        :
   soundcloud       :
-  stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
+  stackoverflow    : #""
   steam            :
   tumblr           :
   twitter          : "smalljosephd1"
