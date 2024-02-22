@@ -11,8 +11,7 @@ My name is **Joseph David** (christened Joseph Tolúwaṣẹ Ọláolúwa Bab
 
 <!--I am currently pursuing a Masters by Research (MRes) degree at the <a href ="https://fpe.upsi.edu.my/master/"  style="text-decoration: none" target="_blank"></a>Universiti Pendidikan Sultan Idris (UPSI), Malaysia.--!> 
 
-I was previously affiliated with the <a href="https://lbs.edu.ng" style="text-decoration: none" target="_blank">Lagos Business School, Pan-Atlantic University</a>, Lagos, where I worked as a Research and Teaching Assistant under the mentorship of <a href ="https://www.lbs.edu.ng/faculty_profiles/akintola-owolabi/"  style="text-decoration: none" target="_blank">Professor Akintola Owolabi</a>. I left the Lagos Business School for a graduate degree program at UPSI in August 2023, but I remain under the mentorship of Professor Owolabi. <br/> <br/>
-
+I was previously affiliated with the <a href="https://lbs.edu.ng" style="text-decoration: none" target="_blank">Lagos Business School, Pan-Atlantic University</a>, Lagos, where I worked as a Research and Teaching Assistant under the mentorship of <a href ="https://www.lbs.edu.ng/faculty_profiles/akintola-owolabi/"  style="text-decoration: none" target="_blank">Professor Akintola Owolabi</a>. I left the Lagos Business School for a graduate degree program in August 2023. However, Professor Owowlabi continues to mentor me. <br/> <br/>
 
 Before joining the Lagos Business School, I was mentored by <a href="https://scholar.google.com.my/citations?user=U2rrsr4AAAAJ&hl=en" style="text-decoration: none" target="_blank">Professor Nurudeen Abu</a> and <a href="https://scholar.google.com/citations?hl=en&user=jklNds0AAAAJ" style="text-decoration: none" target="_blank"> Dr. Musa Abdullahi Sakanko</a>. Under the mentorship of Professor Abu and Dr. Sakanko, I have contributed to answering several interesting research questions.     
 
