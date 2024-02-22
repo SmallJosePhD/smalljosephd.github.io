@@ -1,5 +1,5 @@
 ---
-title: "[Book Chapter]Infrastructure and Sustainable Development Goals (SDGs) in Nigeria"
+title: "[Book Chapter] Infrastructure and Sustainable Development Goals (SDGs) in Nigeria"
 collection: publications
 permalink: /publication/2022-sdg-book-chapter
 date: 2022-10-27
