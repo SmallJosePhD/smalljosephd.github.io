@@ -25,6 +25,7 @@ Building on my strong background and interest in econometric theory, political e
 My research projects have appeared in some notable Economic journals, including the Journal of Money Laundering Control, Economic Change and Restructuring, Contemporary Economics, and the International Journal of Energy Economics and Policy, among others.
 
 <!--My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia, under the supervision of <a href="https://scholar.google.com/citations?user=Qjft0HoAAAAJ&hl=en" style="text-decoration:none" target="_blank">Dr. Awadh A.M. Gamal</a>, focuses on the role of corruption and the underground economy in the oil rent-growth relationship in oil-rich economies.--!>
+
 <div>
   <h3>Skills</h3>
   <div style="display: flex; justify-content: space-between;">
@@ -34,6 +35,5 @@ My research projects have appeared in some notable Economic journals, including 
   <img src="/images/latex_icon.jpg" alt="LaTeX" style="width: 50px; height: 50px;">
   <img src="/images/overleaf_icon.png" alt="Overleaf" style="width: 50px; height: 50px;">
   <img src="/images/github_icon.png" alt="GitHub" style="width: 50px; height: 50px;">
-<!--<img src="/images/python_icon.png" alt="Python" style="width: 50px; height: 50px;"> -->
   </div>
 </div>
