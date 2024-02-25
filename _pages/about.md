@@ -18,7 +18,9 @@ Before joining the Lagos Business School, I was mentored by <a href="https://sch
 The central theme of my research interests broadly lies at the intersection of illicit activities (such as corruption, money laundering, and underground economic activities), climate change, and fiscal sustainability in developing economies.<br/>
 
 Building on my strong background and interest in econometric theory, political economy and development economics, I have, since 2017 (after my bachelor's degree), employed quantitative economics toolkits to understand the complexity of several social, economic, and political issues. These include the drivers and inhibitors of poverty in Nigeria, the health spending-outcome nexus, the implication of the oil-corruption association for fiscal and economic sustainability; and the size of money laundering, amongst others. <br/>
+
 My research projects have appeared in some notable Economic journals, including the Journal of Money Laundering Control, Economic Change and Restructuring, Contemporary Economics, and the International Journal of Energy Economics and Policy, among others.
+
 [//]: # "My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia, under the supervision of <a href="https://scholar.google.com/citations?user=Qjft0HoAAAAJ&hl=en" style="text-decoration:none" target="_blank">Dr. Awadh A.M. Gamal</a>, focuses on the role of corruption and the underground economy in the oil rent-growth relationship in oil-rich economies."
 
 <div>
