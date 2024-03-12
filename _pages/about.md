@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is **Joseph David** (christened Joseph Tolúwaṣẹ Ọláolúwa Babátúndé David). I am a Research Associate at the Covenant University's <a href ="https://cepder.covenantuniversity.edu.ng/" style="text-decoration: none" target="_blank"> Centre for Economic Policy and Development Research (CEPDeR)</a>. 
+My name is **Joseph David** (christened Joseph Tolúwaṣẹ Ọláolúwa Babátúndé David). I am a Graduate Research Associate at the Covenant University's <a href ="https://cepder.covenantuniversity.edu.ng/" style="text-decoration: none" target="_blank"> Centre for Economic Policy and Development Research (CEPDeR)</a>. 
 
 [//]: # "I am currently pursuing a Masters by Research (MRes) degree at the <a href ="https://fpe.upsi.edu.my/master/"  style="text-decoration: none" target="_blank"></a>Universiti Pendidikan Sultan Idris (UPSI), Malaysia."
 
