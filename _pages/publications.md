@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find my articles on my <u><a href="https://scholar.google.com/citations?hl=en&user=ghb58Y0AAAAJ">Google Scholar profile</a>.</u>
 
-<sup>†</sup>Equal first author
+<sup><b>†</b></sup>Equal first author
 
 {% include base_path %}
 
@@ -16,4 +16,4 @@ You can also find my articles on my <u><a href="https://scholar.google.com/citat
   {% include archive-single.html %}
 {% endfor %}
 
-<sup>†</sup>Equal first author
+<sup><b>†</b></sup>Equal first author
