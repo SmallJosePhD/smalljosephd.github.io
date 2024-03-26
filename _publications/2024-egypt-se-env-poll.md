@@ -1,5 +1,5 @@
 ---
-title: "Asymmetric Effect of Shadow Economy on Environmental Pollution on Egypt: Evidence from Bootstrap NARDL Technique"
+title: "Asymmetric Effect of Shadow Economy on Environmental Pollution in Egypt: Evidence from Bootstrap NARDL Technique"
 collection: publications
 permalink: /publication/2024-egypt-se-env-poll
 date: 2024-03-27
@@ -9,5 +9,5 @@ paperurl: '/files/pdf/research/2024-Egypt-shadow-economy-pollution-paper.pdf'
 link: 'https://doi.org/10.32479/ijeep.15605'
 code: 'https://doi.org/10.32479/ijeep.15605'
 github: 'https://github.com/SmallJosePhD/Egypt-SE-and-ENVR-POLL'
-citation: 'Gamal, A.A.M., <b>David, J.</b>, Mohd Noor, M.A., Mohd Hussin, M.Y. & Viswanathan, K.K. (2024). &quot;Asymmetric Effect of Shadow Economy on Environmental Pollution on Egypt: Evidence from Bootstrap NARDL Technique&quot;. <i>International Journal of Energy Economics and Policy</i>, <I>14</i>(3), 1-10. doi: doi.org/10.32479/ijeep.15605'
+citation: 'Gamal, A.A.M., <b>David, J.<sup>†</sup></b>, Mohd Noor, M.A., Mohd Hussin, M.Y. & Viswanathan, K.K. (2024). &quot;Asymmetric Effect of Shadow Economy on Environmental Pollution in Egypt: Evidence from Bootstrap NARDL Technique&quot;. <i>International Journal of Energy Economics and Policy</i>, <I>14</i>(3), 1-10. doi: doi.org/10.32479/ijeep.15605'
 ---
