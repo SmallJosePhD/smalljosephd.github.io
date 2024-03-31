@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Relationship Between Poverty and Unemployment in Niger State</a>'
+title: '<a href="/publication/2018-pov_unem" style="text-decoration:none;">Relationship Between Poverty and Unemployment in Niger State</a>'
 collection: publications
 permalink: /publication/2018-pov_unem
 date: 2018-03-10
