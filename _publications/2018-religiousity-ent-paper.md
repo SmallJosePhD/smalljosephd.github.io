@@ -1,5 +1,5 @@
 ---
-title: "Religiosity and entrepreneurial intentions in Nigeria"
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Religiosity and entrepreneurial intentions in Nigeria</a>'
 collection: publications
 permalink: /publication/2018-religiousity-ent-paper
 date: 2018-8-10
