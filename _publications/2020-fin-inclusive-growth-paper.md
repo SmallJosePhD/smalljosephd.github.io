@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Advancing inclusive growth in Nigeria: The role of financial inclusion in poverty, inequality, household expenditure, and unemployment</a>'
+title: '<a href="/publication/2020-fin-inclusive-growth-paper" style="text-decoration:none;">Advancing inclusive growth in Nigeria: The role of financial inclusion in poverty, inequality, household expenditure, and unemployment</a>'
 collection: publications
 permalink: /publication/2020-fin-inclusive-growth-paper
 date: 2020-10-25
