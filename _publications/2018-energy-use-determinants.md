@@ -1,5 +1,5 @@
 ---
-title: "Appraisal of the Determinants of Energy Use in Lapai Local Government"
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Appraisal of the Determinants of Energy Use in Lapai Local Government</a>'
 collection: publications
 permalink: /publication/2018-energy-use-determinants
 date: 2018-10-1
