@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">The effect of democratic zoning system on Nigeria economy: evidence of Niger State</a>'
+title: '<a href="/publication/2018-zoning-paper" style="text-decoration:none;">The effect of democratic zoning system on Nigeria economy: evidence of Niger State</a>'
 collection: publications
 permalink: /publication/2018-zoning-paper
 date: 2018-2-25
