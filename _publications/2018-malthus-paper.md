@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">An econometric validation of Malthusian theory: evidence in Nigeria</a>'
+title: '<a href="/publication/2018-malthus-paper" style="text-decoration:none;">An econometric validation of Malthusian theory: evidence in Nigeria</a>'
 collection: publications
 permalink: /publication/2018-malthus-paper
 date: 2018-1-12
