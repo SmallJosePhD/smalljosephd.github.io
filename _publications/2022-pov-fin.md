@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Impact of financial inclusion on poverty reduction in Niger state, Nigeria</a>'
+title: '<a href="/publication/2022-pov-fin" style="text-decoration:none;">Impact of financial inclusion on poverty reduction in Niger state, Nigeria</a>'
 collection: publications
 permalink: /publication/2022-pov-fin
 date: 2022-12-22
