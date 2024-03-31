@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Trade openness and inflation: Empirical explanation of the nexus in Nigeria</a>'
+title: '<a href="/publication/2019-trade-inf-paper" style="text-decoration:none;">Trade openness and inflation: Empirical explanation of the nexus in Nigeria</a>'
 collection: publications
 permalink: /publication/2019-trade-inf-paper
 date: 2019-10-19
