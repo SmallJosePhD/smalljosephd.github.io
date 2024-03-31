@@ -1,5 +1,5 @@
 ---
-title: "The behaviour of tax revenue amid corruption in Nigeria: Evidence from Non-Linear ARDL approach"
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">The behaviour of tax revenue amid corruption in Nigeria: Evidence from Non-Linear ARDL approach</a>'
 collection: publications
 permalink: /publication/2022-tax-revenue
 date: 2022-7-1
