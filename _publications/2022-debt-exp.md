@@ -1,5 +1,5 @@
 ---
-title: "Non-linear effect of government debt on public expenditure in Nigeria: Insight from bootstrap ARDL procedure"
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Non-linear effect of government debt on public expenditure in Nigeria: Insight from bootstrap ARDL procedure</a>'
 collection: publications
 permalink: /publication/2022-debt-exp
 date: 2022-07-28
