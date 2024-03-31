@@ -1,5 +1,5 @@
 ---
-title: "<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">The effect of electronic payment systems on financial performance of microfinance banks in Niger State</a>"
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">The effect of electronic payment systems on financial performance of microfinance banks in Niger State</a>'
 collection: publications
 permalink: /publication/2019-epayment-sys-paper
 date: 2019-12-14
