@@ -1,5 +1,5 @@
 ---
-title: "Prudent macroeconomic management and poverty reduction: Empirical evidence from Nigeria"
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Prudent macroeconomic management and poverty reduction: Empirical evidence from Nigeria</a>"
 collection: publications
 permalink: /publication/2019-prudent-macromagt
 date: 2019-10-1
