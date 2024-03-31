@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">The moderating role of corruption in the oil price-economic growth relationship in an oil-dependent economy: Evidence from Bootstrap ARDL with a Fourier Function</a>'
+title: '<a href="/publication/2023-oil-corr-growth" style="text-decoration:none;">The moderating role of corruption in the oil price-economic growth relationship in an oil-dependent economy: Evidence from Bootstrap ARDL with a Fourier Function</a>'
 collection: publications
 permalink: /publication/2023-oil-corr-growth
 date: 2023-09-05
