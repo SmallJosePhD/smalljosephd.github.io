@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Infant mortality and public health expenditure in Nigeria: Empirical explanation of the nexus</a>'
+title: '<a href="/publication/2018-infant-mortality-paper" style="text-decoration:none;">Infant mortality and public health expenditure in Nigeria: Empirical explanation of the nexus</a>'
 collection: publications
 permalink: /publication/2018-infant-mortality-paper
 date: 2018-12-1
