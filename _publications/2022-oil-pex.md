@@ -1,5 +1,5 @@
 ---
-title: "Oil price and public expenditure relationship in Nigeria: Does the level of corruption matter?"
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Oil price and public expenditure relationship in Nigeria: Does the level of corruption matter?</a>'
 collection: publications
 permalink: /publication/2022-oil-pex
 date: 2022-5-1
