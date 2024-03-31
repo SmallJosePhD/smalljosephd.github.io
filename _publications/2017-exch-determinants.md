@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">An econometrics analysis of the determinants of exchange rate in Nigeria (1980-2016)</a>'
+title: '<a href="/publication/2017-exch-determinants" style="text-decoration:none;">An econometrics analysis of the determinants of exchange rate in Nigeria (1980-2016)</a>'
 collection: publications
 permalink: /publication/2017-exch-determinants
 date: 2017-12-12
