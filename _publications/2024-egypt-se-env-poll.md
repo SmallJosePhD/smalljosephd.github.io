@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Asymmetric Effect of Shadow Economy on Environmental Pollution in Egypt: Evidence from Bootstrap NARDL Technique</a>'
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Asymmetric effect of shadow economy on environmental pollution in Egypt: Evidence from Bootstrap NARDL technique</a>'
 collection: publications
 permalink: /publication/2024-egypt-se-env
 date: 2024-03-27
