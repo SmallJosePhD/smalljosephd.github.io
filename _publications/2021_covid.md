@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">How have COVID-19 confirmed cases and deaths affected stock markets? Evidence from Nigeria</a>
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">How have COVID-19 confirmed cases and deaths affected stock markets? Evidence from Nigeria</a>'
 collection: publications
 permalink: /publication/2021_covid
 date: 2021-2-21
