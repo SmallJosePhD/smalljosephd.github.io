@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Estimating the magnitude of money laundering in the United Arab Emirates (UAE): Evidence from the Currency Demand Approach (CDA)</a>'
+title: '<a href="/publication/2023-ml" style="text-decoration:none;">Estimating the magnitude of money laundering in the United Arab Emirates (UAE): Evidence from the Currency Demand Approach (CDA)</a>'
 collection: publications
 permalink: /publication/2023-ml
 date: 2023-04-28
