@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Financial inclusion and underground economy nexus in West Africa: Evidence from dynamic heterogeneous panel techniques</a>'
+title: '<a href="/publication/2024-fin-ueco" style="text-decoration:none;">Financial inclusion and underground economy nexus in West Africa: Evidence from dynamic heterogeneous panel techniques</a>'
 collection: publications
 permalink: /publication/2024-fin-ueco
 date: 2024-02-02
