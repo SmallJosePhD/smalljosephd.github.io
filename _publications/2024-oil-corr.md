@@ -1,5 +1,5 @@
 ---
-title: "Oil rent, corruption and economic growth relationship in Nigeria: evidence from various estimation techniques"
+title: '<a href="/publication/2024-egypt-se-env" style="text-decoration:none;">Oil rent, corruption and economic growth relationship in Nigeria: evidence from various estimation techniques</a>'
 collection: publications
 permalink: /publication/2024-oil-corr
 date: 2024-02-02
