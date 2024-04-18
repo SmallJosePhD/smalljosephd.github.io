@@ -57,9 +57,9 @@ atom_feed:
 social:
   name: Joseph David
   links:
-    - https://twitter.com/SmallJosePhD1
-    - https://www.facebook.com/josephdav4u
-    - https://www.linkedin.com/in/josephdavid970
+    - https://twitter.com/
+    - https://www.facebook.com/
+    - https://www.linkedin.com/
     - https://github.com/SmallJosePhD
     
 # SEO Related
@@ -72,7 +72,7 @@ yandex_site_verification :
 mastodon:
   username               : #""
 twitter:
-  username               : "smalljosephd1"
+  username               : ""
 facebook:
   username               :
   app_id                 :
@@ -106,7 +106,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-1357-5618"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ghb58Y0AAAAJ"
   email            : "josephdavid970@gmail.com"
-  researchgate     :  "https://www.researchgate.net/scientific-contributions/Joseph-David-2138201987"
+  researchgate     :  ""
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57658362200"
   uri              :
   bitbucket        :
@@ -122,14 +122,14 @@ author:
   instagram        :
   impactstory      : ##""
   lastfm           :
-  LinkedIn         : "https://www.linkedin.com/in/josephdavid970"
+  LinkedIn         : ""
   mastodon         : #""
   pinterest        :
   soundcloud       :
   stackoverflow    : #""
   steam            :
   tumblr           :
-  twitter          : "smalljosephd1"
+  twitter          : ""
   vine             :
   weibo            :
   xing             :
