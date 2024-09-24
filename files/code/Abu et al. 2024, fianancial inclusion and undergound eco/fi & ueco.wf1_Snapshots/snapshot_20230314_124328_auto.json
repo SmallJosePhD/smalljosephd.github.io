@@ -1,0 +1,472 @@
+
+{
+	"commands" : [ "fii.uroot(exog=trend, dif=1, llc, lagmethod=aic)" ],
+	"description" : "Generated based on timer.",
+	"label" : "auto",
+	"workbook_meta" : 
+	{
+		"_name" : "c:\\users\\user\\desktop\\fi, unec, and gov\\analysis\\fi & ueco.wf1",
+		"_pages" : 
+		[
+			
+			{
+				"_frequency" : "A",
+				"_last_update" : [ 738591.6035648148, "03/13/2023 14:29" ],
+				"_name" : "Untitled",
+				"_obj_count" : 70,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : [ "double", "date" ],
+						"_name" : [ "CROSSID", "DATEID" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "AGRGDPI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "AGRGI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "AGRI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "ATM",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "BIZREGI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "BORROWERS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "BRANCHES",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "C_ID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "CC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "CORR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "COUNTRY",
+						"_type" : "ALPHA"
+					},
+					
+					{
+						"_name" : "CROSSID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DATEID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DEFI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DEPACC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DEPOSITORS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DEPOSITS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "ECOMGTI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "EXCHI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FDIGDPI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FDII",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIACCESS1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIACCESS2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIAVAILABILITY1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIAVAILABILITY2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIAVAILABILITY3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FII1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FII2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FII3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIUSAGE1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIUSAGE2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIUSAGE3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIUSAGE4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FIUSAGE5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "FOURIERARDL",
+						"_type" : "EQUATION"
+					},
+					
+					{
+						"_name" : "GDPGI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "GE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "GEXGDPI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "GEXGI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "GEXI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "INFI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IQ1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IQ2",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IQ3",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IQ4",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IQ5",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "IQ6",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "KSTAR",
+						"_type" : "SCALAR"
+					},
+					
+					{
+						"_name" : "LOANS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MATRIXAIC",
+						"_type" : "MATRIX"
+					},
+					
+					{
+						"_name" : "MBAGENTS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MEMGTI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MINVECAIC",
+						"_type" : "VECTOR"
+					},
+					
+					{
+						"_name" : "MMACC",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MS1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "PCYI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "POPGI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "PS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESULT2",
+						"_type" : "EQUATION"
+					},
+					
+					{
+						"_name" : "RL",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RQ",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "TRADE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "TRADE1",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UECO",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UNEMI",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "VA",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "VMMTRANS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "YEAR",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 180
+			},
+			
+			{
+				"_frequency" : "A",
+				"_last_update" : [ 738592.5268865741, "03/14/2023 12:38" ],
+				"_name" : "Result",
+				"_obj_count" : 15,
+				"_objects" : 
+				[
+					
+					{
+						"_data_type" : [ "double", "date" ],
+						"_name" : [ "CROSSID", "DATEID" ],
+						"_type" : "INDEX"
+					},
+					
+					{
+						"_name" : "AGRGDP",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "C",
+						"_type" : "COEF"
+					},
+					
+					{
+						"_name" : "CAUSALITY",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "CORR",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "CROSSID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DATEID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "DESCRIPTIVE",
+						"_type" : "TABLE"
+					},
+					
+					{
+						"_name" : "FII",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "GROUP_R",
+						"_type" : "SPOOL"
+					},
+					
+					{
+						"_name" : "INF",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "MS",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESID",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "RESULT",
+						"_type" : "EQUATION"
+					},
+					
+					{
+						"_name" : "TRADE",
+						"_type" : "SERIES"
+					},
+					
+					{
+						"_name" : "UECO",
+						"_type" : "SERIES"
+					}
+				],
+				"_obs_count" : 180
+			}
+		]
+	}
+}
