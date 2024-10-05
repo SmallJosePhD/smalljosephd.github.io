@@ -121,6 +121,14 @@
         <li><a href="http://arxiv.org/a/{{ author.arxiv }}" target="_blank"><i class="ai ai-arxiv ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>arXiv</a></li>
       {% endif %}
       
+      {% if author.ssrn %}
+        <li><a href="{{ author.ssrn }}" target="_blank"><i class="ai ai-ssrn ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>SSRN</a></li>
+      {% endif %}
+      
+      {% if author.ideas-repec %}
+        <li><a href="{{ author.ideas-repec }}" target="_blank"><i class="ai ai-ideas-repec ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>IDEAS/RePEc</a></li>
+      {% endif %}
+      
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>PubMed</a></li>
       {% endif %}
