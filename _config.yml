@@ -108,8 +108,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ghb58Y0AAAAJ"
   email            : "josephdavid970@gmail.com"
   researchgate     :  #""
-  arxiv            : "smalljosephd"
+  arxiv            : #"smalljosephd"
   scopus           : "57658362200"
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3479495"
+  ideas-repec      : "https://ideas.repec.org/f/pda850.html"
   uri              :
   bitbucket        :
   codepen          :
