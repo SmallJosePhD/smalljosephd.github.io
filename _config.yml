@@ -8,10 +8,10 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Joseph David"
-tagline                  : "Joseph David's website | My personal website dedicated to disseminating my research outcomes"
+tagline                  : "Joseph David's web page"
 title_separator          : "-"
 name                     : "Joseph David"
-description              : "Joseph David's website | My personal website dedicated to disseminating my research outcomes"
+description              : "Joseph David's web page"
 url                      : "https://smalljosephd.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smalljosephd/smalljosephd.github.io"
@@ -102,11 +102,13 @@ author:
   bio              : ""
   location         : "T-M, MYS"
   employer         :
+  university       :
   pubmed           :
   orcid            : "https://orcid.org/0000-0002-1357-5618"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ghb58Y0AAAAJ"
   email            : "josephdavid970@gmail.com"
   researchgate     :  #""
+  arxiv            : "smalljosephd"
   scopus           : "57658362200"
   uri              :
   bitbucket        :
