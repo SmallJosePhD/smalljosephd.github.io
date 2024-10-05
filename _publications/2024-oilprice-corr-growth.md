@@ -1,5 +1,5 @@
 ---
-title: "The role of corruption in the oil price-growth relationship: Insights from oil-rich economies"
+title: '<a href="/publication/2024-oilprice-corr-growth" style="text-decoration:none;">The role of corruption in the oil price-growth relationship: Insights from oil-rich economies</a>'
 collection: publications
 permalink: /publication/2024-oilprice-corr-growth
 date: 2024-10-03
