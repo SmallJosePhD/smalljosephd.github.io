@@ -28,6 +28,9 @@
       {% if author.employer %}
         <li><i class="fa fa-fw fa-map-marker-alt" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.employer }}</li>
       {% endif %}
+      {% if author.university %}
+        <li><i class="fa fa-solid fa-building-columns fa-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.employer }}</li>
+      {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
@@ -114,15 +117,20 @@
         <li><a href="{{ author.googlescholar }}" target="_blank"><i class="ai ai-google-scholar ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
       {% endif %}
       
+      {% if author.arxiv %}
+        <li><a href="http://arxiv.org/a/{{ author.arxiv }}" target="_blank"><i class="ai ai-arxiv ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>Google Scholar</a></li>
+      {% endif %}
+      
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>PubMed</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw" aria-hidden="true" style="padding-right: 1.5em;"></i>Impactstory</a></li>
       {% endif %}
-{% if author.scopus %} -->
-  <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}" target="_blank"><i class="fas fa-fw fa-database" aria-hidden="true" style="padding-right: 1.1em;"></i>Scopus</a></li> -->
-{% endif %} -->
+      
+      {% if author.scopus %} 
+        <li><a href="https://www.scopus.com/authid/detail.uri?authorId={{ author.scopus }}" target="_blank"><i class="fas fa-fw fa-database" aria-hidden="true" style="padding-right: 1.1em;"></i>Scopus</a></li>
+      {% endif %} 
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/@{{ author.youtube }}" target="_blank"><i class="fab fa-fw fa-youtube" aria-hidden="true" style="padding-right: 1.5em;"></i>YouTube</a></li>
       {% endif %}
