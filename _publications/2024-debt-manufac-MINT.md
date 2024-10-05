@@ -10,5 +10,5 @@ link: ''
 data: ''
 github: ''
 code: ''
-citation: 'Abu, N., David, J. & Sakanko, M.A. (2024, in press). &quot;External Debt and Manufacturing Sector’s Performance in MINT Countries: Evidence from Dynamic Heterogeneous Panel Estimation Techniques&quot; <i>Journal of the Knowledge Economy</i>. <i>Forthcoming</i>'
+citation: 'Abu, N., <b>David, J.<sup>†</sup></b>, & Sakanko, M.A. (2024, in press). &quot;External Debt and Manufacturing Sector’s Performance in MINT Countries: Evidence from Dynamic Heterogeneous Panel Estimation Techniques&quot; <i>Journal of the Knowledge Economy</i>. <i>Forthcoming</i>'
 ---
