@@ -100,7 +100,7 @@ author:
   name             : "Joseph David"
   avatar           : "DSC_1477.JPG"
   bio              : ""
-  location         : "T-M, MYS"
+  location         : #"T-M, MYS"
   employer         : 
   university       : "Lagos Business School"
   pubmed           :
