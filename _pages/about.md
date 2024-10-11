@@ -22,7 +22,7 @@ The central theme of my research interests broadly lies at the intersection of i
 
 Building on my strong background and interest in econometric theory, political economy, and development economics, I have, since 2017 (after completing my bachelor's degree), employed quantitative economics toolkits to understand the complexity of various social, economic, and political issues. These include the drivers and inhibitors of poverty in Nigeria, the health spending-outcome nexus, the implications of the oil-corruption relationship for fiscal and economic sustainability, and the scale of money laundering, among others.
 
-My research has appeared in several economic journals, including the <i>Journal of Money Laundering Control</i>, <i>Economic Change and Restructuring</i>, Contemporary Economics</i>, <i>Journal of the Knowledge Economy</i>, <i>Organization and Markets in Emerging Economies (OMEE)</i>, and the <i>International Journal of Energy Economics and Policy</i>, among others.
+My research has appeared in several economic journals, including the Journal of Money Laundering Control, Economic Change and Restructuring, Contemporary Economics, Journal of the Knowledge Economy, Organization and Markets in Emerging Economies (OMEE), and the International Journal of Energy Economics and Policy.
 
 [//]: # "My MRes research at the Universiti Pendidikan Sultan Idris, Malaysia, under the supervision of <a href="https://scholar.google.com/citations?user=Qjft0HoAAAAJ&hl=en" style="text-decoration:none" target="_blank">Dr. Awadh A.M. Gamal</a>, focuses on the role of corruption and the underground economy in the oil rent-growth relationship in oil-rich economies."
 
