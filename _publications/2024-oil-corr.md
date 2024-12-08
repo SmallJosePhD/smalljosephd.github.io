@@ -12,5 +12,5 @@ paperurl: '/files/pdf/research/2024_David.pdf'
 link: 'https://doi.org/10.1108/JMLC-10-2023-0160'
 code: 'https://doi.org/10.1108/JMLC-10-2023-0160'
 github: ''
-citation: '<b>David, J.</b>,  Gamal, A.A.M., Mohd Noor, M.A. & Zakariya, Z. (2024). &quot;Oil rent, corruption and economic growth relationship in Nigeria: evidence from various estimation techniques&quot;. <i>Journal of Money Laundering Control</i>, Vol. ahead-of-print No. ahead-of-print. doi:https://doi.org/10.1108/JMLC-10-2023-0160'
+citation: '<b>David, J.</b>,  Gamal, A.A.M., Mohd Noor, M.A. & Zakariya, Z. (2024). &quot;Oil rent, corruption and economic growth relationship in Nigeria: evidence from various estimation techniques&quot;. <i>Journal of Money Laundering Control</i>, <i>27</i>(5):962-979. https://doi.org/10.1108/JMLC-10-2023-0160'
 ---
