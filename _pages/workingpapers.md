@@ -9,5 +9,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.workingpapers reversed %}
-  {% include archive-single.html %}
+  {% include archive-wp.html %}
 {% endfor %}
