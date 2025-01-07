@@ -31,6 +31,10 @@
       {% if author.university %}
         <li><i class="fa fa-fw fa-landmark" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.university }}</li>
       {% endif %}
+
+      {% if author.office %}
+        <li><i class="fa fa-fw fa-building" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ author.office }}</li>
+      {% endif %}
       
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true" style="padding-right: 1.5em;"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
