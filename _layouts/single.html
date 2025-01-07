@@ -50,7 +50,10 @@ layout: default
         
              
         {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></u></a></p>
+          <p>Recommended citation: {{ page.citation }}
+            <br\>
+            <div><a href="{{ page.paperurl }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Download Paper" }}</a></div>
+          </p>
         {% elsif page.citation %}
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
