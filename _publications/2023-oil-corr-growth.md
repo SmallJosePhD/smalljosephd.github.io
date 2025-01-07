@@ -9,6 +9,6 @@ paperurl: '/files/pdf/research/2023-oil-corr-growth.pdf'
 link: 'http://dx.doi.org/10.13140/RG.2.2.32652.28800/1'
 code: 'http://dx.doi.org/10.13140/RG.2.2.32652.28800/1'
 github: 'https://github.com/SmallJosePhD/David-et-al.-2023'
-data: 'https://github.com/SmallJosePhD/David-et-al.-2023'
+datasheet: 'https://github.com/SmallJosePhD/David-et-al.-2023/raw/refs/heads/main/Data/myData.xlsx'
 citation: '<b>David, J.</b>, Abu, N., & Owolabi, A.<sup></sup> (2024, in press). &quot;The moderating role of corruption in the oil price-economic growth relationship in an oil-dependent economy: Evidence from Bootstrap ARDL with a Fourier Function.&quot; <i>Economic Alternatives</i>, Forthcoming.'
 ---
