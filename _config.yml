@@ -204,6 +204,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  workingpapers:
+    output: true
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
