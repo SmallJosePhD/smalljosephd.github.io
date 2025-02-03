@@ -11,5 +11,5 @@ data: ''
 link: 'https://doi.org/10.55493/5002.v15i2.5290'
 code: ''
 datasheet: ''
-citation: 'Gamal, A.A.M., Salem, S.A.M., <b>David, J.<sup>†</sup></b>, Tha, G.P., & Viswanathan, K.K. (2025). &quot;Investigating the  effect  of  the  shadow  economy  on Malaysia’seconomic growth: Insight from a nonlinear perspective.&quot; <i>Asian Economic and Financial Review</i>, <i>15</i>(2), 182-195. https://doi.org/10.55493/5002.v15i2.5290.'
+citation: 'Gamal, A.A.M., Salem, S.A.M., <b>David, J.</b>, Tha, G.P., & Viswanathan, K.K. (2025). &quot;Investigating the  effect  of  the  shadow  economy  on Malaysia’seconomic growth: Insight from a nonlinear perspective.&quot; <i>Asian Economic and Financial Review</i>, <i>15</i>(2), 182-195. https://doi.org/10.55493/5002.v15i2.5290.'
 ---
