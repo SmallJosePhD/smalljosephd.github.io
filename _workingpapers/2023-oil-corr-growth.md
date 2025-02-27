@@ -11,5 +11,5 @@ code: 'https://github.com/SmallJosePhD/David-et-al.-2023/tree/main/R'
 github: 'https://github.com/SmallJosePhD/David-et-al.-2023'
 ssrn: 'https://ssrn.com/abstract=4731086'
 datasheet: 'https://github.com/SmallJosePhD/David-et-al.-2023/raw/refs/heads/main/Data/myData.xlsx'
-citation: '<b>David, J.</b>, Abu, N., & Owolabi, A.<sup></sup> (2023). &quot;The moderating role of corruption in the oil price-economic growth relationship in an oil-dependent economy: Evidence from Bootstrap ARDL with a Fourier Function.&quot; <i>Accepted in at Economic Alternatives</i>.'
+citation: '<b>David, J.</b>, Abu, N., & Owolabi, A.<sup></sup> (2023). &quot;The moderating role of corruption in the oil price-economic growth relationship in an oil-dependent economy: Evidence from Bootstrap ARDL with a Fourier Function.&quot; <i>Accepted at Economic Alternatives</i>.'
 ---
