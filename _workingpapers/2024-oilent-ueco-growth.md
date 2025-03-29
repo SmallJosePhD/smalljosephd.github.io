@@ -10,5 +10,6 @@ github: ''
 data: ''
 link: 'https://dx.doi.org/10.2139/ssrn.5083483'
 code: ''
-citation: 'The role of the underground economy in the oil wealth-growth nexus: new insight from Nigeria (with <a href="https://directory.upsi.edu.my/experts/profile/3ADCAA65FB1C713C">Awadh Gamal</a>, Sultan Salem, <a href="https://scholar.google.com/citations?user=plGjGTUAAAAJ&hl=en">K. Kuperan Viswanathan</a>, and <a href="https://directory.upsi.edu.my/experts/profile/E9D017BA4732AB7C">Norasibah Abdul Jalil</a>). https://dx.doi.org/10.2139/ssrn.5083483'
+ssrn: ' https://dx.doi.org/10.2139/ssrn.5083483'
+citation: 'The role of the underground economy in the oil wealth-growth nexus: new insight from Nigeria (with <a href="https://directory.upsi.edu.my/experts/profile/3ADCAA65FB1C713C">Awadh Gamal</a>, Sultan Salem, <a href="https://scholar.google.com/citations?user=plGjGTUAAAAJ&hl=en">K. Kuperan Viswanathan</a>, and <a href="https://directory.upsi.edu.my/experts/profile/E9D017BA4732AB7C">Norasibah Abdul Jalil</a>).'
 ---
