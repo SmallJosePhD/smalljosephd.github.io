@@ -8,5 +8,5 @@ abstract: 'Over the past three decades, Nigeria has experienced unstable domesti
 paperurl: '/files/pdf/research/fdi-corruption-and-domestic-investment-paper.pdf'
 link: 'https://doi.org/10.37075/EA.2024.2.04'
 code: ''
-citation: 'Abu, N., Obi, B., Gamal, A.A.M., Abd Karim, M.Z., Sakanko, M.A., & <b>David, J.</b> (2024). &quot;Long-term impact of FDI-corruption interaction on domestic investment in Nigeria&quot;. <i>Economic Alternatives</i>, <i>30</i>(2), 273-292. doi:10.37075/EA.2024.2.04.'
+citation: 'Abu, N., Obi, B., Gamal, A.A.M., Abd Karim, M.Z., Sakanko, M.A., & <b>David, J.</b> (2024). &quot;Long-term impact of FDI-corruption interaction on domestic investment in Nigeria&quot;. <i>Economic Alternatives</i>, <i>30</i>(2), 273-292. https://doi.org/10.37075/EA.2024.2.04.'
 ---
