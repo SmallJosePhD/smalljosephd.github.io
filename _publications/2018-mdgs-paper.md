@@ -1,5 +1,5 @@
 ---
-title: '<a href="/publication/2018-mdgs-paper" style="text-decoration:none;">Assessment of the Millennium Development Goals (MDGS) on the eradication of ooverty and hunger in Nigeria</a>'
+title: '<a href="/publication/2018-mdgs-paper" style="text-decoration:none;">Assessment of the Millennium Development Goals (MDGS) on the eradication of poverty and hunger in Nigeria</a>'
 collection: publications
 permalink: /publication/2018-mdgs-paper
 date: 2018-12-1
