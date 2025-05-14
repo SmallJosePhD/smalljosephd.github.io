@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-trade-inf-paper
 date: 2019-10-19
 venue: 'International Journal of Social Sciences and Economic Review'
-abstract:'<b>Purpose of the study:</b> The study aims is to examine the effect of trade openness on inflation rate in Nigeria.
+abstract: '<b>Purpose of the study:</b> The study aims is to examine the effect of trade openness on inflation rate in Nigeria.<br/>
 <b>Methodology:</b> Time series data were collected from secondary sources. EViews10 (statistical software for data analysis) ware employed to analyze the data collected.<br/>
 <b>Findings:</b> The results revealed a cointegrating and one-way Granger causality between inflation rate, and trade openness. In addition, both the short-run and the long-run results demonstrate a significant and negative relationship between inflation rate and trade openness in Nigeria.<br/>
 <b>Application:</b> The study is paramount to the government and policymakers in dealing and taking a decision regarding consumer price index and trade openness in Nigeria. We conclude that the government should work towards full diversification and diversion of the economy from oil export, control, and management of the degree of trade liberalization and the extent to which goods enter the country, and the control of money supplied.<br/>
