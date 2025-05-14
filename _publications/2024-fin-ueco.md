@@ -9,5 +9,5 @@ paperurl: '/files/pdf/research/2024-fin-ueco.pdf'
 link: 'https://doi.org/10.1007/s10644-024-09589-x'
 code: 'https://doi.org/10.1007/s10644-024-09589-x'
 github: 'https://github.com/SmallJosePhD/UndergroundEco_Fin_Inc'
-citation: 'Sakanko, M.A., <b>David, J.<sup>†</sup></b>, Abu, N., & Gamal, A.A.M. (2024). &quot;Financial inclusion and underground economy nexus in West Africa: Evidence from dynamic heterogeneous panel techniques&quot;. <I>Economic Change and Restructuring</i>, <i>57</i>(8). doi: 10.1007/s10644-024-09589-x'
+citation: 'Sakanko, M.A., <b>David, J.<sup>†</sup></b>, Abu, N., & Gamal, A.A.M. (2024). &quot;Financial inclusion and underground economy nexus in West Africa: Evidence from dynamic heterogeneous panel techniques&quot;. <I>Economic Change and Restructuring</i>, <i>57</i>(8). https://doi.org/10.1007/s10644-024-09589-x'
 ---
