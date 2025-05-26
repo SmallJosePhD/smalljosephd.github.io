@@ -72,7 +72,11 @@
       {% if post.github %}
         <a href="{{ post.github }}"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
       {% endif %}
-      
+
+        {% if post.datasheet %}
+        <a href="{{ post.datasheet }}"><i class="fas fa-fw fa-file-excel zoom" aria-hidden="true"></i></a>
+      {% endif %}
+        
       {% if post.ssrn %}
         <a href="{{ post.ssrn }}"><i class="ai ai-ssrn ai-fw zoom" aria-hidden="true"></i></a>
       {% endif %}
