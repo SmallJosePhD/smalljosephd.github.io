@@ -12,5 +12,6 @@ link: 'https://doi.org/10.1007/s10644-024-09808-5'
 file: 'https://rdcu.be/dY2yw'
 code: 'https://github.com/SmallJosePhD/oil_price_corr_growth/blob/main/1_estimation.do'
 datasheet: 'https://github.com/SmallJosePhD/oil_price_corr_growth/raw/refs/heads/main/curated%20data.xlsx'
+SSRN: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5013183'
 citation: 'David, J. (2024). &quot;The role of corruption in the oil price-growth relationship: Insights from oil-rich economies&quot; <i>Economic Change and Restructuring</i>, <i>57</i>(246). https://doi.org/10.1007/s10644-024-09808-5'
 ---
